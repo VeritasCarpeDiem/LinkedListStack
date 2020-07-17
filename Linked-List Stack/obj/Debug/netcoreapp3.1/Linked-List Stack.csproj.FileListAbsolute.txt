@@ -1,0 +1,13 @@
+\\GMRDC1\Folder Redirection\jin.kim\Desktop\Linked-List Stack\Linked-List Stack\bin\Debug\netcoreapp3.1\Linked-List Stack.exe
+\\GMRDC1\Folder Redirection\jin.kim\Desktop\Linked-List Stack\Linked-List Stack\bin\Debug\netcoreapp3.1\Linked-List Stack.deps.json
+\\GMRDC1\Folder Redirection\jin.kim\Desktop\Linked-List Stack\Linked-List Stack\bin\Debug\netcoreapp3.1\Linked-List Stack.runtimeconfig.json
+\\GMRDC1\Folder Redirection\jin.kim\Desktop\Linked-List Stack\Linked-List Stack\bin\Debug\netcoreapp3.1\Linked-List Stack.runtimeconfig.dev.json
+\\GMRDC1\Folder Redirection\jin.kim\Desktop\Linked-List Stack\Linked-List Stack\bin\Debug\netcoreapp3.1\Linked-List Stack.dll
+\\GMRDC1\Folder Redirection\jin.kim\Desktop\Linked-List Stack\Linked-List Stack\bin\Debug\netcoreapp3.1\Linked-List Stack.pdb
+\\GMRDC1\Folder Redirection\jin.kim\Desktop\Linked-List Stack\Linked-List Stack\obj\Debug\netcoreapp3.1\Linked-List Stack.csprojAssemblyReference.cache
+\\GMRDC1\Folder Redirection\jin.kim\Desktop\Linked-List Stack\Linked-List Stack\obj\Debug\netcoreapp3.1\Linked-List Stack.AssemblyInfoInputs.cache
+\\GMRDC1\Folder Redirection\jin.kim\Desktop\Linked-List Stack\Linked-List Stack\obj\Debug\netcoreapp3.1\Linked-List Stack.AssemblyInfo.cs
+\\GMRDC1\Folder Redirection\jin.kim\Desktop\Linked-List Stack\Linked-List Stack\obj\Debug\netcoreapp3.1\Linked-List Stack.csproj.CoreCompileInputs.cache
+\\GMRDC1\Folder Redirection\jin.kim\Desktop\Linked-List Stack\Linked-List Stack\obj\Debug\netcoreapp3.1\Linked-List Stack.dll
+\\GMRDC1\Folder Redirection\jin.kim\Desktop\Linked-List Stack\Linked-List Stack\obj\Debug\netcoreapp3.1\Linked-List Stack.pdb
+\\GMRDC1\Folder Redirection\jin.kim\Desktop\Linked-List Stack\Linked-List Stack\obj\Debug\netcoreapp3.1\Linked-List Stack.genruntimeconfig.cache
